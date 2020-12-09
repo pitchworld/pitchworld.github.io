@@ -1,0 +1,30 @@
+.bike{ color: #d54d7b; 
+    font-family: "Great Vibes", cursive;
+     font-size: 80px; 
+    line-height: 160px;
+     font-weight: normal; 
+     margin-bottom: 0px; 
+     margin-top: 10px;
+      text-align: center; 
+      text-shadow: 0 1px 1px #fff; 
+    }
+
+    .b2home{
+        float: left;
+        font-style: oblique bold;
+        color: lightcoral;
+        font-size: 20px;
+        margin-left: 20px;
+    
+    }
+    .b1:hover {
+        transform: scale(1.15);
+        box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+      }
+      .b1 {
+     
+        transition: 0.5s ease;
+        cursor: pointer;
+        margin:30px;
+      }
+    
