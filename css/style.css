@@ -22,6 +22,39 @@
        font-size: 30px;
       
        }
+form{
+    margin-top: 50px;
+    transition: all 1s ease-in-out;
+}
+.form-control{
+    width: 100px;
+    background: transparent;
+    border-color:red ;
+    outline: none;
+    columns: #fff;
+    font-size: 18px;
+    margin-bottom: 16px;
+    
+}
+input{
+    height: 45px;
+}
+form .submit{
+    background: #ec481a;
+    border-color: transparent;
+    color: #fff;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px ;
+    width: 100px;
+
+}
+form .submit:hover{
+    background-color: black;
+   cursor: pointer;
+}
 /*link1 */
 #link{
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
